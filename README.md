@@ -57,6 +57,13 @@ Users can explore hotels, filter them based on various criteria, and add new hot
 ## 📸 Preview
 
 
+
+https://github.com/user-attachments/assets/8ac7ba5a-dee1-4a89-a561-c077f36b4b76
+
+
+
+
+
 # 💡 Future Improvements
 - 🗺️ Map integration (Google Maps / Leaflet)
 - ❤️ Favorite hotels feature
